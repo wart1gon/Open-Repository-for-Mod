@@ -9,7 +9,11 @@ Note also that the patches are built against "unrenamed" MCP source code (aka
 srgnames) - this means that you will not be able to read them directly against
 normal code.
 
+<<<<<<< HEAD
 Source pack installation information: Юрка2
+=======
+Source pack installation information: Юрка
+>>>>>>> 37f4f34357d50c923d162635f658e52f13ad694e
 
 Standalone source installation
 ==============================
