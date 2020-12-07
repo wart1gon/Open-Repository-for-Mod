@@ -10,6 +10,13 @@ srgnames) - this means that you will not be able to read them directly against
 normal code.
 
 Source pack installation information: Юрка
+XUI
+XUI
+XUI
+XUI
+XUI
+XUI
+XUI
 
 
 Standalone source installation
